@@ -10,3 +10,5 @@
 - 🌐 Weather Dashboard – React + Leaflet  
 - 🛒 E-commerce Store – Responsive Web Shop  
 - 📋 Todo List App – Animated Task Manager
+- 💼 Portfolio - Responsive Design
+---
