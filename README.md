@@ -12,4 +12,4 @@
 - 📋 Todo List App – Animated Task Manager
 - 💼 Portfolio - Responsive Design
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=blue-green)
+![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blue-green&count_private=true)
