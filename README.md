@@ -12,3 +12,4 @@
 - 📋 Todo List App – Animated Task Manager
 - 💼 Portfolio - Responsive Design
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=blue-green)
